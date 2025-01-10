@@ -12,8 +12,7 @@ This project aims to detect and predict fake news using machine learning and nat
 
 ## Dataset
 The project uses publicly available fake news datasets, which include labeled articles for training and testing purposes. Example datasets:
-- [Fake News Detection Dataset](https://www.kaggle.com/datasets)
-- [LIAR: A Benchmark Dataset](https://www.cs.ucsb.edu/~william/)
+- [Fake News Detection Dataset](https://www.kaggle.com/c/fake-news/data?select=train.csv)
 
 ## Installation
 1. Clone the repository:
